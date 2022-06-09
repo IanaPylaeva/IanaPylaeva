@@ -47,7 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianapylaeva&layout=compact)](https://github.com/ianapylaeva/github-readme-stats)
 
 
-<div align="left">
+<div align="right">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
