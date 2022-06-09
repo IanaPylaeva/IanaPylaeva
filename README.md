@@ -19,19 +19,21 @@
 
 ### :hammer_and_wrench: Мой стек :
 <div>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_wordmark_logo_icon_146478.png" width="70"/>
-<img src="https://cdn.icon-icons.com/icons2/37/PNG/128/css_3721.png" width="70"/>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" width="70"/>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/react_icon_130845.png" width="70"/>
-  </div>
-    <div>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/git_icon_130933.png" width="70"/>
-<img src="https://cdn.icon-icons.com/icons2/2148/PNG/128/bem_icon_132559.png" width="70"/>
-<img src="https://cdn.icon-icons.com/icons2/1908/PNG/128/4552605-adaptive-design-responsive-responsive-design_121386.png" width="70"/>
+<div>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_wordmark_logo_icon_146478.png" width="70"/>
+  <img src="https://cdn.icon-icons.com/icons2/37/PNG/128/css_3721.png" width="70"/>
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" width="70"/>
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/react_icon_130845.png" width="70"/>
+</div>
+<div>
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/git_icon_130933.png" width="70"/>
+  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/128/bem_icon_132559.png" width="70"/>
+  <img src="https://cdn.icon-icons.com/icons2/1908/PNG/128/4552605-adaptive-design-responsive-responsive-design_121386.png" width="70"/>
 </div>
 <div align="right">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200"/>
 </div>
+  </div>
 
 В свободное время закрепляю знания английского языка, использую программу Duolingo.
 Люблю кататья на коньках, вязать, рисовать.
