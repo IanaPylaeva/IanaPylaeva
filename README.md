@@ -1,6 +1,6 @@
 - 👋 **Привет, меня зовут Яна.**
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" left="0"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="700"/>
 </div>
 
 - 👀 Я интересуюсь фронтент-разработкой.
