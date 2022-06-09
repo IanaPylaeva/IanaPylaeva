@@ -23,6 +23,7 @@ Git
 🌱Максимально получаю знания от Яндекс.Практикум, HTML Academy, читаю обновленные инструкции по JavaScript, React.js, участвую в командных проектах, самостоятельно практикуюсь на собственных проектах.
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=ianapylaeva&theme=merko&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianapylaeva&layout=compact)](https://github.com/ianapylaeva/github-readme-stats)
 <!---
 IanaPylaeva/IanaPylaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
