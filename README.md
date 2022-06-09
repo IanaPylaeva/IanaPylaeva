@@ -13,14 +13,17 @@
 ---
 
 ### :hammer_and_wrench: Мой стек :
+<div>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_wordmark_logo_icon_146478.png"/>HTML
 <img src="https://cdn.icon-icons.com/icons2/37/PNG/128/css_3721.png"/>CSS
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png"/>JavaScript
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/react_icon_130845.png"/>React.js
+</div>
+<div>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/git_icon_130933.png"/>Git
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/128/bem_icon_132559.png"/>БЭМ
 <img src="https://cdn.icon-icons.com/icons2/1908/PNG/128/4552605-adaptive-design-responsive-responsive-design_121386.png"/>Адаптивная вёрстка
-
+</div>
 <div id="header" align="let">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="500"/>
 </div>
