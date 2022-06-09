@@ -24,8 +24,7 @@ Git
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=ianapylaeva&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianapylaeva&layout=compact)](https://github.com/ianapylaeva/github-readme-stats)
-
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/bb1/977/eb4/bb1977eb4fd918bb81b1217e283dc255.png
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/ianapylaeva/github-readme-quotes)
 
 <!---
 IanaPylaeva/IanaPylaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
