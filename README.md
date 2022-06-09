@@ -30,7 +30,7 @@
 <img src="https://cdn.icon-icons.com/icons2/1908/PNG/128/4552605-adaptive-design-responsive-responsive-design_121386.png" width="70"/>
 </div>
 <div align="right">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200"/>
 </div>
 
 В свободное время закрепляю знания английского языка, использую программу Duolingo.
