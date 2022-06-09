@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### :woman_technologist: Я интересуюсь frontend-разработкой
-<div>
+<div align="left">
 - :woman_student: хочу закрепить свои знания,
 - :muscle: работать в команде с сильными коллегами,
 - 👀 изучить новые фреймворки,
