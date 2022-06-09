@@ -24,7 +24,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/128/bem_icon_132559.png" width="70"/>
 <img src="https://cdn.icon-icons.com/icons2/1908/PNG/128/4552605-adaptive-design-responsive-responsive-design_121386.png" width="70"/>
 </div>
-<div id="header" align="let">
+<div align="left">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="500"/>
 </div>
 
@@ -34,6 +34,11 @@
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=ianapylaeva&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianapylaeva&layout=compact)](https://github.com/ianapylaeva/github-readme-stats)
+
+
+<div align="left">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+</div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/ianapylaeva/github-readme-quotes)
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=ianapylaeva&style=flat-square&color=blue" alt=""/></div>
