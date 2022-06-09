@@ -53,8 +53,6 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/ianapylaeva/github-readme-quotes)
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/https://www.linkedin.com/in/iana-pylaeva-1488b7223/?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/iana-pylaeva-1488b7223/])
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/iana-pylaeva-1488b7223/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
