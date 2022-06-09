@@ -53,7 +53,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/ianapylaeva/github-readme-quotes)
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/https://www.linkedin.com/in/iana-pylaeva-1488b7223/?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/braydon-coyer/](https://www.linkedin.com/in/iana-pylaeva-1488b7223/))
+[![LinkedIn Badge](https://img.shields.io/badge/https://www.linkedin.com/in/iana-pylaeva-1488b7223/?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/iana-pylaeva-1488b7223/](https://www.linkedin.com/in/iana-pylaeva-1488b7223/))
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=ianapylaeva&style=flat-square&color=blue" alt="" /></div>
 <!---
 IanaPylaeva/IanaPylaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
