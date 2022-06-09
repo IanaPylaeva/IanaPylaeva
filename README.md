@@ -1,10 +1,6 @@
 - 👋 **Привет, меня зовут Яна.**
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
 </div>
 
 - 👀 Я интересуюсь фронтент-разработкой.
@@ -24,6 +20,10 @@ JavaScript
 React.js
 Git
 БЭМ
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="500"/>
+</div>
 
 В свободное время закрепляю знания английского языка, использую программу Duolingo.
 Люблю кататья на коньках, вязать, рисовать.
