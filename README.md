@@ -52,7 +52,8 @@
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/ianapylaeva/github-readme-quotes)
-<div id="badges"><img src="https://komarev.com/ghpvc/?username=ianapylaeva&style=flat-square&color=blue" alt=""/></div>
+<div id="badges"><img src="https://komarev.com/ghpvc/?username=ianapylaeva&style=flat-square&color=blue" alt="" /></div>
+
 <!---
 IanaPylaeva/IanaPylaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
