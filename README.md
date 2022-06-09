@@ -14,8 +14,8 @@
 
 ### :hammer_and_wrench: Мой стек :
 <div">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_wordmark_logo_icon_146478.png" width="50%/>
-<img src="https://cdn.icon-icons.com/icons2/37/PNG/128/css_3721.png" width="50%/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_wordmark_logo_icon_146478.png" width="50%"/>
+<img src="https://cdn.icon-icons.com/icons2/37/PNG/128/css_3721.png" width="50%"/>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png"/>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/react_icon_130845.png"/>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/git_icon_130933.png"/>
