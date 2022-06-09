@@ -13,7 +13,7 @@
 ---
 
 ### :hammer_and_wrench: Мой стек :
-<div>
+<div width="50%">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_wordmark_logo_icon_146478.png"/>
 <img src="https://cdn.icon-icons.com/icons2/37/PNG/128/css_3721.png"/>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png"/>
