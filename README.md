@@ -10,9 +10,13 @@
 Мои сильные стороны это высокая продуктивность, скорость выполнения, и всегда доведение до конца поставленных задач на максимально высоком уровне качества.
 
 Мой стек:
-
-icons8-javascript-26JavaScript	icons8-html-5-26HTML	icons8-css3-26CSS	icons8-react-26React	
-icons8-rest-api-26REST API	icons8-webpack-26webpack	icons8-git-26git
+HTML
+CSS
+Адаптивная вёрстка
+JavaScript
+React.js
+Git
+БЭМ
 
 В свободное время закрепляю знания английского языка, использую программу Duolingo.
 Люблю кататья на коньках, вязать, рисовать.
