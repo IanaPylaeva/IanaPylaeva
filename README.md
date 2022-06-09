@@ -13,7 +13,7 @@
 ---
 
 ### :hammer_and_wrench: Мой стек :
-<img src="http://www.w3.org/2000/svg" width="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_wordmark_logo_icon_146478.png"/>
 CSS
 Адаптивная вёрстка
 JavaScript
